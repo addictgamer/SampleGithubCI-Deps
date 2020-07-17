@@ -10,6 +10,6 @@ public:
 	
 	void testFunc()
 	{
-		std::cout << "Does the thing!!";
+		std::cout << "Does the thing!!\n";
 	}
 };
